@@ -20,3 +20,6 @@ Para ejecutar el proyecto:
 git clone https://github.com/josuedominguez29/trabajo_1_mineria_datos_exoplanetas.git
 cd trabajo_1_mineria_datos_exoplanetas
 bash pipeline.sh
+
+## 📊 Resultados
+![Relación Masa vs Radio](resultado.png)
